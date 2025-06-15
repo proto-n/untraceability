@@ -8,4 +8,4 @@ Implementation of the code for the paper [Towards Measuring the Traceability of 
 2. Run any graph_* script you need in `processing/` to create the networkx graphs.
 3. Run `processing/experiments/*/run.sh` from its directory to calculate untraceabilities (absorbing entropies).
 4. Run `processing/zcash_*` to readjust zcash results by considering the shielded pool.
-5. The notebook `processing/expected_steps_to_absorption.ipynb` creates the figures in the paper.
+5. The notebooks `processing/expected_steps_to_absorption.ipynb` and `processing/evaluation.ipynb` calculate the figures and results in the paper.
