@@ -1,0 +1,14 @@
+bitcoin/blocks
+bitcoin/inputs
+bitcoin/outputs
+bitcoin/transactions
+ethereum/blocks
+ethereum/transactions
+ethereum/uncles
+ethereum/erc-20/tokens
+ethereum/erc-20/transactions
+ethereum/calls
+zcash/blocks
+zcash/inputs
+zcash/outputs
+zcash/transactions
