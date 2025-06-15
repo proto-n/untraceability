@@ -82,7 +82,7 @@ for txHash, shielded_delta in txs[txs['shielded_value_delta']!=0][['hash','shiel
 
 # %%
 print("Writing the graph to file")
-nx.write_gpickle(G, "graphs/graph_utxo_zcash.gpickle")
+nx.write_gpickle(G, "graph/graph_utxo_zcash.gpickle")
 print("Finished")
 
 # %%

@@ -104,7 +104,7 @@ shielded_balance
 
 # %%
 print("Writing the graph to file")
-nx.write_gpickle(G, "graphs/graph_pk_zcash.gpickle")
+nx.write_gpickle(G, "graph/graph_pk_zcash.gpickle")
 print("Finished")
 
 # %%
